@@ -33,6 +33,6 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 3. Commit your changes and push the branch to your forked repository.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
+<!-- ## License -->
 
 <!-- This project is licensed under the [MIT License](LICENSE). -->
