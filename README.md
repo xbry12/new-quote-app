@@ -16,4 +16,4 @@ A web-based application that generates random quotes and displays them to the us
 1. Clone the repository:
 
    ```bash
-   git clone [<repository_url>](https://github.com/xbry12/new-quote-app.git)
+   git clone [<repository_url>](https://github.com/xbry12/new-quote-app.git)]
